@@ -1,0 +1,15 @@
+#This file originates from https://raw.githubusercontent.com/sscarrow/blendos-tracks/main/hyprland.yaml
+impl: 'https://github.com/Errorts/blendos-tracks/raw/main'
+  
+track: blendos-base
+
+package-repos:
+  - name: 'chaotic-aur'
+    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
+
+packages:
+  - 'chaotic-aur/sddm-git'
+  - 'chaotic-aur/hyprland-git'
+
+  services:
+  - 'sddm'
