@@ -1,7 +1,7 @@
 #This file orginates from https://raw.githubusercontent.com/Jaoheah/tracks/main/nwghyprland.yaml
-impl: 'https://github.com/Errorts/blendos-tracks/raw/main'
-
-track: blendos-base
+impl: 'https://github.com/Errorts/blend-tracks/raw/main'
+  
+track: 'blendos-base'
 
 package-repos:
   - name: 'chaotic-aur'
