@@ -1,7 +1,7 @@
 #This file originates from https://raw.githubusercontent.com/sscarrow/blendos-tracks/main/hyprland.yaml
 impl: 'https://github.com/Errorts/blendos-tracks/raw/main'
-
-track: blendos-base
+  
+track: 'blendos-base'
 
 package-repos:
   - name: 'chaotic-aur'
