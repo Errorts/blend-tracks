@@ -11,5 +11,5 @@ packages:
   - 'chaotic-aur/sddm-git'
   - 'chaotic-aur/hyprland-git'
 
-  services:
+services:
   - 'sddm'
