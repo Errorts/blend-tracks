@@ -3,15 +3,15 @@ impl: 'https://github.com/Errorts/blend-tracks/raw/main'
   
 track: 'blendos-base'
 
-#package-repos:
-#  - name: 'chaotic-aur'
-#    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
+package-repos:
+  - name: 'chaotic-aur'
+    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
 
 packages:
-#  - 'chaotic-aur/sddm-git'
-#  - 'chaotic-aur/hyprland-git'
-  - 'sddm'
-  - 'hyprland'
+  - 'chaotic-aur/sddm-git'
+  - 'chaotic-aur/hyprland-git'
+#  - 'sddm'
+#  - 'hyprland'
   - 'kitty'
 
 services:
