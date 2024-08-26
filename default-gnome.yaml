@@ -1,6 +1,6 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
-
-track: 'gnome'
+impl: 'https://github.com/Errorts/blendos-tracks/raw/main'
+  
+track: 'blendos-base'
 
 packages:
   - 'gnome-shell-extension-dash-to-dock'
