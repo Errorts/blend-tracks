@@ -10,6 +10,7 @@ package-repos:
 packages:
   - 'chaotic-aur/sddm-git'
   - 'chaotic-aur/hyprland-git'
+  - 'chaotic-aur/nwg-dock-hyprland'
 #  - 'greetd-regreet'
   - 'wofi'
   - 'kitty'
