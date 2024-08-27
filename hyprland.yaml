@@ -9,12 +9,13 @@ package-repos:
 
 packages:
   - 'chaotic-aur/sddm-git'
+  - 'greetd-regreet'
   - 'chaotic-aur/hyprland-git'
   - 'nwg-displays'
   - 'kitty'
 
 aur-packages:
-  - 'greetd-regreet-git'
+#  - 'greetd-regreet-git'
 
 services:
   - 'sddm'
