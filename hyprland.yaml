@@ -12,7 +12,6 @@ packages:
   - 'chaotic-aur/hyprland-git'
   - 'chaotic-aur/nwg-dock-hyprland'
 #  - 'greetd-regreet'
-  - 'wofi'
   - 'kitty'
 
 services:
