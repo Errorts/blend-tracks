@@ -8,7 +8,7 @@ package-repos:
     repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
 
 packages:
-  - 'chaotic-aur/sddm-git'
+#  - 'chaotic-aur/sddm-git'
   - 'greetd-regreet'
   - 'chaotic-aur/hyprland-git'
   - 'nwg-displays'
