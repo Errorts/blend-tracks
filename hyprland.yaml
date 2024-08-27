@@ -18,4 +18,4 @@ aur-packages:
 #  - 'greetd-regreet-git'
 
 services:
-  - 'greetd-regreet'
+#  - 'greetd-regreet'
